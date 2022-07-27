@@ -1,0 +1,6 @@
+{
+    "in-map": "على الخريطة",
+    "search":"فلتر",
+    "x-nights-for-price":"{{nights}} ليلة مقابل {{price}}",
+    "show-all-offers-from-x": "عرض بقية العروض بدءًا من {{price}}"
+}

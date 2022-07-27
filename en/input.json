@@ -1,0 +1,12 @@
+{
+  "direction-hotel-name": "Hotel Name or Destination",
+  "enter": "Enter",
+  "exit": "Exit",
+  "name": "Firstname",
+  "last-name": "Lastname",
+  "email": "Email",
+  "phone-number": "Phone Number",
+  "niche-market": "Niche Market",
+  "write-your-msg-here": "Write your message here...",
+  "pick-enter-exit-date": "Pick enter and exit date"
+}

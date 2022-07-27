@@ -1,0 +1,6 @@
+{
+  "in-map": "Location in Map",
+  "search": "Search",
+  "x-nights-for-price": "{{nights}}Nights for{{price}}",
+  "show-all-offers-from-x": "View the rest of the offers starting from{{price}}"
+}
